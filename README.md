@@ -5,6 +5,7 @@
 ## Visual Overview
 <img width="887" height="228" alt="image" src="https://github.com/user-attachments/assets/646f03df-c484-4198-a866-d93c9afd19af" />
 
+---
 
 **Selected Outputs (Current Year)**  
 | Category        | Metric                        | Result |
